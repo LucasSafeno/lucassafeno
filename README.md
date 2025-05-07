@@ -21,7 +21,7 @@ My name is Lucas Tenório, I'm 30 years old and I'm a Software Engineering stude
 
 ---
 ### 🤖 Languages ​​and Technologies
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,html,css,javascript,mysql,bootstrap,linux,aws,gcp,java,python,blender,c,ubuntu,debian,discord,docker,git,npm,bash,sass,eclipse,vscode,tailwind,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,html,css,javascript,wordpress,mysql,bootstrap,godot,linux,aws,gcp,java,python,blender,c,ubuntu,debian,discord,docker,git,npm,bash,sass,eclipse,vscode,idea,nodejs,tailwind,&perline=5)](https://skillicons.dev)
 
 
 <br/>
