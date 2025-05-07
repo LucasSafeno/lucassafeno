@@ -10,7 +10,7 @@ My name is Lucas Tenório, I'm 30 years old and I'm a Software Engineering stude
 
 🇧🇷 Brasileiro\
 👨🏻‍🎓 Engenharia de Software\
-🐧🐃 Linux User\
+🐧 Linux User
 
 
 ---
