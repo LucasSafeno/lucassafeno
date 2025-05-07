@@ -8,9 +8,9 @@ Meu Instagram "[lucasgtenorio](https://www.instagram.com/lucasgtenorio)"
 
 My name is Lucas Tenório, I'm 30 years old and I'm a Software Engineering student. I have skills in FullStack development. I have experience in Web development, and I like Game development. Challenges are my fuel, I like to develop solutions. My Instagram "[lucasgtenorio](https://www.instagram.com/lucasgtenorio)"
 
-🇧🇷 Brasileiro
-👨🏻‍🎓 Engenharia de Software
-🐧🐃 Linux User
+🇧🇷 Brasileiro\
+👨🏻‍🎓 Engenharia de Software\
+🐧🐃 Linux User\
 
 
 ---
