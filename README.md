@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 
-Me chamo Lucas Tenório, 30 anos e estudante do curso de Engenharia de Software. Meu objetivo ainda é me formar na área de tecnlógia em uma universidade federal. Nesse perfil compartilho meus proejtos de estudos.
+Me chamo Lucas Tenório, 30 anos e estudante do curso de Engenharia de Software. Tenho habilidades em desenvolvimento FullStack. Tenho experiência em desenvolvimento Web, gosto de desenvolvimento de Game. Desafio é meu combustivél, gosto de desenvolver soluções.
 Meu Instagram "[lucasgtenorio](https://www.instagram.com/lucasgtenorio)"
 
 ---
